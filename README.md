@@ -8,4 +8,5 @@ La mitad de las muertes en los Estados Unidos y otros países desarrollados se d
 https://github.com/saramancohenao-cpu/Taller_1_auto/blob/main/Parte%201/lab_parte_1.ipynb
 
 **Laboratorio 1 parte 2**
+
 entregable:https://github.com/saramancohenao-cpu/Taller_1_auto/blob/main/PARTE%202%20%20AUTOMATIZACI%C3%93N%202%20SARA.pdf
